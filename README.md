@@ -1,4 +1,5 @@
-# BEGR
-Generate structural ensembles for intrinsically disordered proteins
+# Broad Ensemble Generation with Re-weighting (BEGR)
+
+Description: Software for generating structural ensembles for intrinsically disordered proteins.
 
 Primary reference:  Ytreberg FM, Borcherds W, Wu H, Daughdrill GW, Using chemical shifts to generate structural ensembles for intrinsically disordered proteins with converged distributions of secondary structure, Intrinsically Disord Proteins, 3:1-10 (2015) doi:10.4161/21690707.2014.984565
